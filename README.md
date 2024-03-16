@@ -5,7 +5,7 @@ This project is based off of a site that Matt gracefully hosts over at https://t
 
 ### How to use with clipboard inserter and mpv
 * Install the [clipboard inserter](https://chrome.google.com/webstore/detail/clipboard-inserter/deahejllghicakhplliloeheabddjajm?hl=en) Chrome extension and allow access to file URLs in settings
-* Install the [`mpvatious`](https://github.com/Ajatt-Tools/mpvacious) mpv script
+* Install the [`mpvacious`](https://github.com/Ajatt-Tools/mpvacious) mpv script
 * Open `index.html` in Chrome and make sure clipboard inserter extension is turned "on"
 * Open a video file in mpv and configure [`mpvatious`](https://github.com/Ajatt-Tools/mpvacious) to copy subtitles to clipboard _(configurable by pressing `a`, then `t`)_
 
